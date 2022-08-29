@@ -1,5 +1,5 @@
-This is an animated cat.
+This is an abstract animation.
 
-View live: [Animated Cat]
+View live: [Abstract Animation]
 
-[Animated Cat]: https://nwoye-ezekiel.github.io/animation-cat/
+[Abstract Animated]: https://nwoye-ezekiel.github.io/animation/
